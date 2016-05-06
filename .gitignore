@@ -1,0 +1,11 @@
+RNSQt
+*~
+*.gch
+obj/*
+bin/*
+GeneratedFiles/*
+TODO.txt
+*.save
+src/*.save
+*.user
+Makefile
